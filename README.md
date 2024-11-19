@@ -21,4 +21,4 @@ This ciruit was implemented on DE1-SOC. Various input and output modules of the 
 - LEDR9 was used as a finish signal.
 
 #Files
-
+- 
