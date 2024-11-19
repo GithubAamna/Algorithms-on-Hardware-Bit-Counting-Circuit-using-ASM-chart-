@@ -21,4 +21,6 @@ This ciruit was implemented on DE1-SOC. Various input and output modules of the 
 - LEDR9 was used as a finish signal.
 
 #Files
-- 
+- [Bit Counting Circuit .v](https://github.com/GithubAamna/Algorithms-on-Hardware-Bit-Counting-Circuit-using-ASM-chart-/blob/main/Bit%20Counting%20Circuit.v)
+- [Testbench for Bit Counting Circuit.v](https://github.com/GithubAamna/Algorithms-on-Hardware-Bit-Counting-Circuit-using-ASM-chart-/blob/main/Testbench%20for%20bit%20counting%20circuit.v)
+- [Memory Initialization File](https://github.com/GithubAamna/Algorithms-on-Hardware-Bit-Counting-Circuit-using-ASM-chart-/blob/main/my_array.mif)
